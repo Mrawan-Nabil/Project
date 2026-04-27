@@ -1,0 +1,5 @@
+pygame
+hypothesis
+pytest
+pytest-cov
+Pillow
